@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DanielSimgame
-- 👀 Into boys🌈
 - 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on studying
 - 📫 How to reach me via E-Mail: kraudaniel#vip.qq.com (# => @)
