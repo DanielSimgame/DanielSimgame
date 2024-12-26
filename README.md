@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DanielSimgame
-- 🌱 I’m currently learning Vue
-- 💞️ I’m looking to collaborate on studying
-- 📫 How to reach me via E-Mail: kraudaniel#vip.qq.com (# => @)
+- 🌱 I’m a frontend developer with some backend skills
+- 📫 How to reach me via E-Mail: kraudaniel#icloud.com (# => @)
 
 <!---
 DanielSimgame/DanielSimgame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
