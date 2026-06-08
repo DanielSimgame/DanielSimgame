@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @DanielSimgame
-- 🌱 I’m a frontend developer with some backend skills
-- 📫 How to reach me via E-Mail: kraudaniel#icloud.com (# => @)
+- 👋 Hi, I’m Daniel Chang-Ming Mo @DanielSimgame
+- 🌍 Mandarin, Cantonese, English available, limited ability to read Korean
+- 👨‍💼 Currently a Salesperson at Alibaba Cloud International
+- 🤖 Used to be a Software Engineer, and still having side projects
+- 📧 Reach me: [kraudaniel(at)icloud.com](mailto:kraudaniel@icloud.com) or [daniel_mo@alibaba-inc.com](mailto:daniel_mo@alibaba-inc.com)
+
+- 💼 Feel free to reach out via E-Mail for architecture, cloud infrastructure and AI consulting!
 
 <!---
 DanielSimgame/DanielSimgame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
