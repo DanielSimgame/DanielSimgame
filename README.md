@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Chang-Ming Mo @DanielSimgame
 - 🌍 Mandarin, Cantonese, English available, limited ability to read Korean
-- 👨‍💼 Currently a Salesperson at Alibaba Cloud International
-- 🤖 Used to be a Software Engineer, and still having side projects
+- 👨‍💼 Currently a Technical Salesperson for cloud infrastructure, AI services and SaaS at Alibaba Cloud International
+- 🤖 Used to be a Software Engineer, still making my side projects, available to cloud infrastructure and AI application inquiry & paid development
 - 📧 Reach me: [kraudaniel(at)icloud.com](mailto:kraudaniel@icloud.com) or [daniel_mo@alibaba-inc.com](mailto:daniel_mo@alibaba-inc.com)
 
 - 💼 Feel free to reach out via E-Mail for architecture, cloud infrastructure and AI consulting!
